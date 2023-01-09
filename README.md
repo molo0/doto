@@ -1,6 +1,6 @@
 # doto
 
-A new Flutter project.
+A Simple mastodon client for mobile devices.
 
 ## Getting Started
 
